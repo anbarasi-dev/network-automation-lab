@@ -130,9 +130,9 @@ This repo will grow as I progress through my network automation learning journey
 
 ## 👩‍💻 About
 
-I'm a network engineer with 15 years of experience, upskilling in Python-based network automation. This repository documents my hands-on learning journey.
+Experienced Technical Manager with 15+ years of expertise in software development within the networking industry, leading teams in the design, development, and delivery of scalable, carrier-grade networking solutions. Committed to continuous professional growth, I am actively enhancing my skills in Python, network automation, Linux, containerized networking, and AI-driven engineering practices. This repository showcases my hands-on learning journey through practical projects, automation frameworks, and technology explorations, demonstrating a proactive approach to adopting modern software engineering and network automation methodologies.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
+Connect with me on [LinkedIn] (https://www.linkedin.com/in/anbarasi-gnanaprakasam-26b95222)
 
 ---
 
