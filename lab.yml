@@ -1,0 +1,6 @@
+name: mylab
+topology:
+  nodes:
+    router1:
+      kind: nokia_srlinux
+      image: ghcr.io/nokia/srlinux
