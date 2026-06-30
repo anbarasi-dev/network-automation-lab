@@ -47,7 +47,7 @@ network-automation-lab/
 
 ### 1 — Clone this repo (inside Containerlab WSL terminal)
 ```bash
-git clone https://github.com/yourusername/network-automation-lab.git
+git clone https://github.com/anbarasi-dev/network-automation-lab.git
 cd network-automation-lab
 ```
 
