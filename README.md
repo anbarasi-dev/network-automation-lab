@@ -1,4 +1,4 @@
-# Network Automation Lab — Containerlab + Netmiko + NAPALM
+# 🚀 Learn Network Automation using Containerlab + Nokia SR Linux + Netmiko + NAPALM
 
 A hands-on network automation lab running entirely on a local Windows 11 + WSL2 machine using Docker — no physical hardware, no vendor account, no licensing required.
 
